@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BADBOYBEN18
+- 👋 Hi, my name is idoko ben im a fullstack web developer
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and javascript
+- 🌱 my current tech stack is html,css,javascript,react,tailwind,mongodb and nodejs
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me chuama2016@gmail.com
+- 📫 How to reach me my email - idokoben16@gmail.com and also my ig - @bad_boy_b.e.n
 
 <!---
 BADBOYBEN18/BADBOYBEN18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
