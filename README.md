@@ -1,15 +1,26 @@
-## Hi, I'm Ben 💫
+Hi, I'm Ben 💫
 
- 🧠 Computer science graduate from renaissance university<br/>
- 👀 im an experienced full stack developer<br/>
- 🌱 my current tech stack is html, css, javascript, react, tailwind , mongodb and nodejs<br/>
- 💞️ I’m looking to collaborate on frontend and fullstack projects<br/>
- 📫 How to reach me my email - idokoben16@gmail.com and also my [Instagram](https://www.instagram.com/bad_boy_b.e.n/)
+🎓 Computer Science graduate from Renaissance University
+💻 Full Stack Developer passionate about building scalable and user-friendly web applications
 
+🚀 Tech Stack:
+HTML • CSS • JavaScript • React • Tailwind CSS • Node.js • MongoDB
+
+📌 What I Do:
+
+Build responsive and interactive web interfaces
+Develop RESTful APIs and backend services
+Create full-stack applications using the MERN stack
+
+🤝 Open to frontend and full-stack opportunities & collaborations
+
+📫 Contact Me:
+
+Email: idokoben16@gmail.com
+LinkedIn: [https://www.instagram.com/bad_boy_b.e.n/](https://www.linkedin.com/in/benedict-idoko-y2k/)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bad_boy_b.e.n) 
-
+[https://www.instagram.com/bad_boy_b.e.n/](https://www.linkedin.com/in/benedict-idoko-y2k/)
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
